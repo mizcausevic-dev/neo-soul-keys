@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/neo-soul-keys-simple-synth-preview.mp3",
+  "preview_sha256": "3dbadb7e45cf072859b865e0c8fcb714e75187bfac9e4fcc706f17c753d79e48",
+  "source_midi_path": "midi/nk01-after-hours/nk01-after-hours-combined.mid",
+  "source_midi_sha256": "f118443f7ded74809d2f5586651ed26d45fa1e6de75db2cef15acb9ba8f4ab96",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "nk01",
+    "start_seconds": 0,
+    "end_seconds": 91.429
+  },
+  "measurement": {
+    "sample_peak": 0.120172,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

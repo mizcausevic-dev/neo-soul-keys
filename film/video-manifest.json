@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/neo-soul-keys-simple-synth-preview.mp3",
+  "source_audio_sha256": "3dbadb7e45cf072859b865e0c8fcb714e75187bfac9e4fcc706f17c753d79e48",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "d3b7b3ea1e64ef96dbc09bac2bab7796614ef41277d0c7b7eda50c3953c87aa9",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+nk01,After Hours,pack-local equal-tempered pitch collection,D,84,4/4,480,32,61440,midi/nk01-after-hours/nk01-after-hours-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+nk02,Velvet Answer,pack-local equal-tempered pitch collection,F,84,4/4,480,32,61440,midi/nk02-velvet-answer/nk02-velvet-answer-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+nk03,Open Voicing,pack-local equal-tempered pitch collection,G#,84,4/4,480,32,61440,midi/nk03-open-voicing/nk03-open-voicing-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+nk04,Last Lamp,pack-local equal-tempered pitch collection,D#,84,4/4,480,32,61440,midi/nk04-last-lamp/nk04-last-lamp-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
