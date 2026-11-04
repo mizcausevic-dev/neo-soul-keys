@@ -1,0 +1,26 @@
+{
+  "title": "Neo-Soul Keys",
+  "study": "nk01",
+  "bpm": 84,
+  "source_audio": "preview/neo-soul-keys-simple-synth-preview.mp3",
+  "source_audio_sha256": "3dbadb7e45cf072859b865e0c8fcb714e75187bfac9e4fcc706f17c753d79e48",
+  "source_midi": "midi/nk01-after-hours/nk01-after-hours-combined.mid",
+  "source_midi_sha256": "f118443f7ded74809d2f5586651ed26d45fa1e6de75db2cef15acb9ba8f4ab96",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "f7d3d22debc0e22a85340223ddfba6bf75c52a9dc73bb140c87032743b1fde34",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "84fe41c9fb060ba2f3edbd18fe93b22766de8f7a3230b2f5312966f3fe456223",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "15af35bd0831b641d1b2963df13c9da3a4181a862a8f4ad507abc22a889309b6",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
